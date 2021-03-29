@@ -54,8 +54,8 @@ UKOL: zkusit vyvolat chybu sectenim cisla a retezce, jak se chyba jmenuje?
 8. podminky - prikaz if 
 
 9. and a or 
-
-
+    - upravit program na vypocet zahrady 
+  
 
    
       
