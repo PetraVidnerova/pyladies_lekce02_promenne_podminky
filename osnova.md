@@ -56,7 +56,10 @@ UKOL: zkusit vyvolat chybu sectenim cisla a retezce, jak se chyba jmenuje?
 9. and a or 
     - upravit program na vypocet zahrady 
   
-
+ UKOL: vypsat hlasku pro
+ - zahrada mensi < 100m2: to je dvorecek 
+ - zahrada > 200 a < 1000m2: prima zahradka 
+ - zahrada > 1000m2: A máš tam i fotbalové hřiště? 
    
       
 
